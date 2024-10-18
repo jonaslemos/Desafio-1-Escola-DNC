@@ -1,0 +1,93 @@
+*{ 
+    margin:0px;
+    font-family: "inter"  
+}
+#titulo-superior{
+    margin-left: -100px;
+    font-size: 50px;
+}
+#menu-superior{
+    background-color:  #303030;
+    color: #FFFFFF;
+    padding: 150px;
+    
+}
+#sub-titulo{
+    margin-top: 25px;
+    margin-left: -100px;
+}
+#menu-informacional{
+    color: #000000;
+    background-color: #F9F9F9;
+    column-count: 3;
+    padding: 100px;   
+}
+.numeros{
+margin-left: 90px;
+   
+}
+.texto{
+    margin-left: 90px;
+    
+}
+#biografia{
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-bottom: 150px;
+}
+#paragrafo-bio{
+    font-size: 25px;
+}
+#interior-casa{
+    margin-left: 700px;
+    margin-top: -300px;
+}
+#formulario{
+    margin-bottom: 30px;
+    text-align: center;
+    background-color: #303030;
+    color: #FFFFFF;
+    padding: 150px;
+    
+}
+#titulo-formulario{
+    margin-bottom: 100px;
+
+}
+input{
+    margin-top: 50px;
+    width: 508px;
+    height: 72px;
+    background-color: #FFFFFF;
+    border: 0px;
+    margin: 30px;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: #0000004D;
+
+
+}
+
+button{
+    background-color:#C07212;
+    height: 72px;
+    width: 286px;
+    color: #FFFFFF;
+    border: 0px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    margin-top: 15px;
+    font-weight: bolder;
+    cursor: pointer;
+    font-size: 25px;
+    margin-top: 150px;
+}
+button:hover{
+    background-color:#C07212;
+    color: white;
+    transform: translateY(-5px);
+    box-shadow: 0px 5px 10px #a77539 ;
+    transition-duration: 0.5s;
+}
